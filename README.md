@@ -10,10 +10,8 @@ Check the **[Releases](https://github.com/tvbox07/StemPublic/releases)** page fo
 
 | Product | Edition | Description |
 |---------|---------|-------------|
-| **StemBox** | Portable (ZIP) | No installation needed. Extract and run. |
 | **StemBox** | CPU Installer | Standard installer for most PCs. |
 | **StemBox** | GPU Installer | NVIDIA GPU accelerated version. |
-| **StemPrism** | Portable (ZIP) | No installation needed. Extract and run. |
 | **StemPrism** | CPU Installer | Standard installer for most PCs. |
 | **StemPrism** | GPU Installer | NVIDIA GPU accelerated version. |
 
